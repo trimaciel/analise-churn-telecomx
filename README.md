@@ -10,7 +10,7 @@
 - [📊 Funcionalidades e Demonstrações](#funcionalidades-e-demonstrações)
 - [🔗 Acesso ao Projeto](#acesso-ao-projeto)
 - [🛠️ Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [👨‍💻 Desenvolvedora do Projeto]
+- [👨‍💻 Desenvolvedora do Projeto](#desenvolvedora-do-projeto)
 
 ---
 
